@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+   margin-left: 0px;
+   overflow: hidden;
+}
+
+
+#gameContainer {
+    position: relative;
+    width: 844px;
+    height: 320px;
+  }
+  
+  #canvas {
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+  
